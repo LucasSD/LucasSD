@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋. I'm a London-based maths tutor looking for my first developer role.
 
 <!--
 **LucasSD/LucasSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
