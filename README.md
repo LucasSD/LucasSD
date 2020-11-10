@@ -1,3 +1,5 @@
+![Alt Text](https://media.giphy.com/media/26BRLblDUw8VAhoFq/giphy.gif) 
+
 ### Hi there 👋. I'm a London-based maths tutor looking for my first developer role.
 ### - 🔭 I’m currently working on an add-on to generate additional statistics for the social craft beer application Untappd. 
 ### - 🌱 I’m currently learning Python. Always. 
@@ -5,7 +7,7 @@
 ### - ⚡ Fun fact: I've visited 44 countries of the world. 
 ### - ⚡Also, my childhood ambition was to be an astronaut. 
 
-![Alt Text](https://media.giphy.com/media/26BRLblDUw8VAhoFq/giphy.gif)
+
 
 
 
