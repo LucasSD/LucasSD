@@ -1,6 +1,5 @@
+<img align="right" width="1000" height="500" src="https://github.com/LucasSD/LucasSD/blob/main/Github%20header.png">
 
-![Alt Text](https://media.giphy.com/media/26BRLblDUw8VAhoFq/giphy.gif) 
-<img align="right" width="100" height="100" src="https://github.com/LucasSD/LucasSD/blob/main/Github%20header.png">
 
 ### Hi there 👋. I'm a London-based maths tutor looking for my first developer role.
 ### - 🔭 I’m currently working on an add-on to generate additional statistics for the social craft beer application Untappd. 
