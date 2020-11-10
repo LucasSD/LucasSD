@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/LucasSD/Github header.png "Header")]
+[![Header](https://raw.githubusercontent.com/LucasSD/<OWNER>/<OWNER>/readme_header.png "Github header")]
 ![Alt Text](https://media.giphy.com/media/26BRLblDUw8VAhoFq/giphy.gif) 
 
 ### Hi there 👋. I'm a London-based maths tutor looking for my first developer role.
