@@ -1,3 +1,4 @@
+[![Header](https://raw.githubusercontent.com/LucasSD/Github header.png "Header")]
 ![Alt Text](https://media.giphy.com/media/26BRLblDUw8VAhoFq/giphy.gif) 
 
 ### Hi there 👋. I'm a London-based maths tutor looking for my first developer role.
