@@ -1,5 +1,5 @@
-<img align="right" width="1000" height="300" src="https://github.com/LucasSD/LucasSD/blob/main/Github%20header.png">
-
+<img align="right" width="1000" height="300" src="https://github.com/LucasSD/LucasSD/blob/main/Github%20header%201.png">
+<img align="right" width="1000" height="300" src="https://github.com/LucasSD/LucasSD/blob/main/Github%20header%202nd%20option.png">
 
 ### Hi there 👋. I'm a London-based maths tutor looking for my first developer role.
 ### - 🔭 I’m currently working on an add-on to generate additional statistics for the social craft beer application Untappd. 
