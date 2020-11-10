@@ -3,6 +3,11 @@
 ### - 🌱 I’m currently learning Python. Always. 
 ### - 👯 I’m looking to collaborate on my first open source projects. 
 ### - ⚡ Fun fact: I've visited 44 countries of the world. 
+### - ⚡Also, my childhood ambition was to be an astronaut. 
+
+![Alt Text](https://media.giphy.com/media/26BRLblDUw8VAhoFq/giphy.gif)
+
+
 
 <!--
 **LucasSD/LucasSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
