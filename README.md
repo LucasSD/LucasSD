@@ -1,4 +1,4 @@
-<img align="right" width="1000" height="500" src="https://github.com/LucasSD/LucasSD/blob/main/Github%20header.png">
+<img align="right" width="1000" height="200" src="https://github.com/LucasSD/LucasSD/blob/main/Github%20header.png">
 
 
 ### Hi there 👋. I'm a London-based maths tutor looking for my first developer role.
