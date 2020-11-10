@@ -8,7 +8,8 @@
 ### - 🌱 I’m currently learning Python. Always. 
 ### - 👯 I’m looking to collaborate on my first open source projects. 
 ### - ⚡ Fun fact: I've visited 44 countries of the world. 
-### - ⚡Also, my childhood ambition was to be an astronaut. 
+### - ⚡Also, my childhood ambition was to be an astronaut. <img src="https://github.com/LucasSD/LucasSD/blob/main/astronaut%20gif.gif" width="40px">
+
 
 
 
