@@ -5,7 +5,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### I'm a London-based maths tutor looking for my first developer role.
 ### - 🔭 I’m currently working on deploying my add-on to generate additional statistics for the social craft beer application Untappd.
-### - 🔭 I’m currently working on deploying my own django web application.
+### - 🔭 I’m currently building a test suite for my deployed django web application.
 ### - 🌱 I’m currently improving my skills in test-driven development using Pytest and Django testing.   
 ### - 👯 I’m looking to collaborate on open source projects. 
 ### - ⚡ Fun fact: I've visited 44 countries of the world. 
