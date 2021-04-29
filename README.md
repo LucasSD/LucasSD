@@ -10,7 +10,7 @@
 ### - 👯 I’m looking to collaborate on open source projects. 
 ### - ⚡ Fun fact: I've visited 44 countries of the world. 
 ### - ⚡Also, my childhood ambition was to be an astronaut. <img src="https://github.com/LucasSD/LucasSD/blob/main/astronaut%20gif.gif" width="40px">
-
+### - ⚡I'm interested in cryptocurrencies; I invested in XLM, XRP, and DOGE in late 2017/early 2018. 
 
 
 
