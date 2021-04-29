@@ -5,7 +5,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### I'm a London-based python developer and tech/strategy consultant at James the Sleep Coach Limited. Maths tutor by day. 
 ### - 🔭 I’m currently working on deploying my add-on to generate additional statistics for the social craft beer application Untappd.
-### - 🔭 I’m currently building a test suite for my deployed django web application.
+### - 🔭 I’m currently finishing a test suite for my deployed django web application.
 ### - 🌱 I’m currently improving my skills in test-driven development using Pytest and Django.   
 ### - 👯 I’m looking to collaborate on open source projects. 
 ### - ⚡ Fun fact: I've visited 44 countries of the world. 
