@@ -4,13 +4,14 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### I'm a London-based Python developer and tech/strategy consultant at James the Sleep Coach Limited. I also tutor maths. 
+### - 🌱 I enjoy building Django apps using a TDD workflow, using Coverage, unittest and/or Pytest.
 ### - 🔭 I’m building a Django app to organise the Christmas/birthday present buying process among my family.  
-### - 🔭 I’m currently working on deploying my add-on to generate additional statistics for the social craft beer application Untappd.
-### - 🌱 I’m currently improving my test-driven-development workflow using pytest, Django tests and Coverage.   
+### - 🔭 I’m currently working on deploying an add-on to generate additional statistics for the social craft beer application Untappd.
+### - 🔭 I've built a basic Twitter bot and a web scraper.
 ### - 👯 I’m looking to collaborate on open source projects. 
 ### - ⚡ Fun fact: I've visited 44 countries of the world. 
-### - ⚡Also, my childhood ambition was to be an astronaut. <img src="https://github.com/LucasSD/LucasSD/blob/main/astronaut%20gif.gif" width="40px">
-### - ⚡I'm interested in cryptocurrencies; I invested in XLM, XRP, and DOGE in late 2017/early 2018. 
+### - ⚡ Also, my childhood ambition was to be an astronaut. <img src="https://github.com/LucasSD/LucasSD/blob/main/astronaut%20gif.gif" width="40px">
+### - ⚡ I'm interested in cryptocurrencies; I've invested in XLM, XRP, DOGE, KEY, HOT and ADA. 
 
 
 
