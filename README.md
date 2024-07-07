@@ -3,7 +3,7 @@
 
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### I'm a London-based Python developer who loves data extraction, APIs and test-driven development. 
+### I'm a London-based Python developer who loves data extraction, APIs and test-driven development. I don't use LinkedIn much so it's best to reach out to me by email. 
 ### - 🌱 I enjoy building scalable, distributed web-scraping solutions using Scrapy.
 ### - 🌱 I enjoy building APIs using a TDD workflow, using Coverage, unittest and/or Pytest.
 ### - 🔭 I’ve built a Django app to organise the Christmas/birthday present buying process among my family.  
